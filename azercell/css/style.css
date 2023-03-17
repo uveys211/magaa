@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#azercell {
+  width: 100%;
+  height: 100vh;
+  background-color: #58247D;
+}
+#azercell .container .row .boxes {
+  position: absolute;
+  width: 70%;
+  height: 70vh;
+  background-color: #58247D;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#azercell .container .row .boxes .azercell {
+  margin-bottom: 40px;
+}
+#azercell .container .row .boxes .azercell .pus {
+  color: white;
+  font-size: 100px;
+}
+#azercell .container .row .boxes .azer .cell {
+  border-radius: 10px;
+}
+#azercell .container .row .boxes .box-right {
+  margin-left: 60px;
+}
+#azercell .container .row .boxes .box-right .box1 {
+  border-radius: 10px;
+  width: 90%;
+  height: 40%;
+  margin-top: 5px;
+  margin-bottom: 60px;
+  background-color: black;
+  border: 2px solid white;
+}
+#azercell .container .row .boxes .box-right .box1 i {
+  margin: 10px;
+  color: white;
+  font-size: 100px;
+}
+#azercell .container .row .boxes .box-right .box1 h1 {
+  color: white;
+}
+#azercell .container .row .boxes .box-right .box1 p {
+  color: white;
+}
+#azercell .container .row .boxes .box-right .box2 {
+  width: 90%;
+  height: 40%;
+  border-radius: 10px;
+  background-color: black;
+  border: 3px solid white;
+}
+#azercell .container .row .boxes .box-right .box2 i {
+  margin: 10px;
+  font-size: 100px;
+  color: white;
+}
+#azercell .container .row .boxes .box-right .box2 h1 {
+  color: white;
+}
+#azercell .container .row .boxes .box-right .box2 p {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
